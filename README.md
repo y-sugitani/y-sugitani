@@ -11,15 +11,15 @@
 
 ## これまでの評判のあった発表資料や技術エントリ
 
-- 2019 〈読み物〉スタートアップがまともなわけ無いから入るな [前編](https://mynavi-agent.jp/it/geekroid/2019/08/sugar-1.html)・[後編](https://mynavi-agent.jp/it/geekroid/2019/08/sugar-2.html)
-- 2019 〈スライド〉[SUGARのアーキテクチャー / SUGAR ARCHITECTURE](https://speakerdeck.com/sugitani/sugar-architecture-20190425)
-- 2017 〈読み物〉[初転職4年間のまとめ、あるいはCTOを辞めたお話](https://sugitani.hatenablog.com/entry/2017/10/01/122714)
-- 2016 〈読み物〉[2015〜2016年で開発組織を作るためにやってみたこ2015〜2016年で開発組織を作るためにやってみたこと](https://labs.septeni.co.jp/entry/2016/08/22/152549)
-- 2015 〈スライド〉[Scalaに至るまでの物語 - Septeni × Scala 第一回 杉谷](https://www.slideshare.net/yasuyukisugitani/septeni-scala)
-- 2016 〈スライド〉[Scala/Scrum/DDD 困ったこと50連発ガトリングトーク！！](https://www.slideshare.net/yasuyukisugitani/scalascrumdddgatlingtalk)
-- 2015 〈スライド〉[GANMA!でDDDをやってみてから1年くらい経った](https://www.slideshare.net/yasuyukisugitani/septeni-scala3)
-- 2015 〈読み物〉[技術的負債について考えた](https://sugitani.hatenablog.com/entry/2015/05/23/205714)
-- 2014 〈読み物〉[2014年。開発組織を作るためにやってみた事](https://labs.septeni.co.jp/entry/20141231/1419955978) 
+- 2019 スタートアップがまともなわけ無いから入るな [前編](https://mynavi-agent.jp/it/geekroid/2019/08/sugar-1.html)・[後編](https://mynavi-agent.jp/it/geekroid/2019/08/sugar-2.html)
+- 2019 [SUGARのアーキテクチャー / SUGAR ARCHITECTURE](https://speakerdeck.com/sugitani/sugar-architecture-20190425)
+- 2017 [初転職4年間のまとめ、あるいはCTOを辞めたお話](https://sugitani.hatenablog.com/entry/2017/10/01/122714)
+- 2016 [2015〜2016年で開発組織を作るためにやってみたこ2015〜2016年で開発組織を作るためにやってみたこと](https://labs.septeni.co.jp/entry/2016/08/22/152549)
+- 2015 [Scalaに至るまでの物語 - Septeni × Scala 第一回 杉谷](https://www.slideshare.net/yasuyukisugitani/septeni-scala)
+- 2016 [Scala/Scrum/DDD 困ったこと50連発ガトリングトーク！！](https://www.slideshare.net/yasuyukisugitani/scalascrumdddgatlingtalk)
+- 2015 [GANMA!でDDDをやってみてから1年くらい経った](https://www.slideshare.net/yasuyukisugitani/septeni-scala3)
+- 2015 [技術的負債について考えた](https://sugitani.hatenablog.com/entry/2015/05/23/205714)
+- 2014 [2014年。開発組織を作るためにやってみた事](https://labs.septeni.co.jp/entry/20141231/1419955978) 
 
 
 
