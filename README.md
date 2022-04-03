@@ -1,19 +1,30 @@
 # 職務経歴書
 
-このドキュメントは杉谷の2021年2月現在の職務経歴書です。
-
+このドキュメントは杉谷の2022年4月現在の職務経歴書です。
 
 
 ## 基本情報
 
 - 杉谷 保幸(スギタニ ヤスユキ) 
-- 男性 / 39歳
+- 男性 / 40歳
 - 神奈川県
-- [これまでの発表資料](https://www.slideshare.net/yasuyukisugitani/presentations) / [ブログ](https://sugitani.hatenablog.com/)
+- [これまでの発表資料](https://www.slideshare.net/yasuyukisugitani/presentations) / [ブログ](https://sugitani.hatenablog.com/) / [Zenn](https://zenn.dev/sugitani) / [Twitter](https://twitter.com/sugitani) ※技術の話はそれほどありません
+
+## これまでの評判のあった発表資料や技術エントリ
+
+- 2019 〈読み物〉スタートアップがまともなわけ無いから入るな [前編](https://mynavi-agent.jp/it/geekroid/2019/08/sugar-1.html)・[後編](https://mynavi-agent.jp/it/geekroid/2019/08/sugar-2.html)
+- 2019 〈スライド〉[SUGARのアーキテクチャー / SUGAR ARCHITECTURE](https://speakerdeck.com/sugitani/sugar-architecture-20190425)
+- 2017 〈読み物〉[初転職4年間のまとめ、あるいはCTOを辞めたお話](https://sugitani.hatenablog.com/entry/2017/10/01/122714)
+- 2016 〈読み物〉[2015〜2016年で開発組織を作るためにやってみたこ2015〜2016年で開発組織を作るためにやってみたこと](https://labs.septeni.co.jp/entry/2016/08/22/152549)
+- 2015 〈スライド〉[Scalaに至るまでの物語 - Septeni × Scala 第一回 杉谷](https://www.slideshare.net/yasuyukisugitani/septeni-scala)
+- 2016 〈スライド〉[Scala/Scrum/DDD 困ったこと50連発ガトリングトーク！！](https://www.slideshare.net/yasuyukisugitani/scalascrumdddgatlingtalk)
+- 2015 〈スライド〉[GANMA!でDDDをやってみてから1年くらい経った](https://www.slideshare.net/yasuyukisugitani/septeni-scala3)
+- 2015 〈読み物〉[技術的負債について考えた](https://sugitani.hatenablog.com/entry/2015/05/23/205714)
+- 2014 〈読み物〉[2014年。開発組織を作るためにやってみた事](https://labs.septeni.co.jp/entry/20141231/1419955978) 
 
 
 
-代表的な作ってきたプロダクト
+## 代表的な作ってきたプロダクト
 
 - [SUGAR](https://apps.apple.com/jp/app/id1395793196)  - SUGAR社による芸能人と（本当に）話せるライブアプリ、佐藤健の配信で三〇万人以上の同接を記録
 - [GANMA!](https://ganma.jp/) - セプテーニ子会社のコミックスマート社によるオリジナルコミック配信サイト/アプリ
@@ -21,14 +32,13 @@
 
 
 
-経歴(簡易)
+## 経歴(簡易)
 
-- 2017- SUGAR株式会社 - CTO
-- 2013-2017 株式会社セプテーニ(分社化によりセプテーニ・オリジナルに転籍/CTO就任 - 現:株式会社FLINTERS)
+- 2022- 株式会社FORO(CTO) / SUGAR株式会社(技術顧問)
+- 2017-2021 SUGAR株式会社(CTO)
+- 2013-2017 株式会社セプテーニ・オリジナル(CTO) ※現:株式会社FLINTERS
 - 2006-2013 株式会社ドワンゴ
-- 2006 - 電気通信大学 情報工学科卒業
-
-
+- 2006 電気通信大学 情報工学科卒業
 
 ## 出来ること
 
@@ -115,22 +125,4 @@ Scalaに至るまでの物語 - https://www.slideshare.net/yasuyukisugitani/sept
 - 2014年。開発組織を作るためにやってみた事 -  https://labs.septeni.co.jp/entry/20141231/1419955978
 - 2015〜2016年で開発組織を作るためにやってみたこと - https://labs.septeni.co.jp/entry/2016/08/22/152549 
 - 初転職4年間のまとめ、あるいはCTOを辞めたお話 - https://sugitani.hatenablog.com/entry/2017/10/01/122714
-
-
-
-
-
-
-# ~~求職中です！~~ 決まりました
-
-~~6月あたりから現在携わっているSUGARが手があまりかからなくなる予定なので、
-SUGARは副業として継続しつつ正社員として働ける場所を探しています。~~
-
-~~ご興味を持っていただけた場合 ![oshigoto](oshigoto.png) にご連絡いただけると幸いです。~~
-
-~~基本的に杉谷が0からScala/Swift/Kotlinをつかって開発をしつつ組織を作成、あるいは強化していく内容で希望させていただいています。~~
-
-~~※大変ありがたいことに、転職活動をはじめる前から新規作成のご依頼を頂戴しているにも関わらず、ご厚意により他のも探させて頂いている状態です。大変申し訳ないのですが既存のシステムの保守（特に他言語で）の案件は承りづらくなっております。~~
-
-
 
