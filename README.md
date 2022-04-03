@@ -7,7 +7,7 @@
 - 杉谷 保幸(スギタニ ヤスユキ) 
 - 男性 / 40歳
 - 神奈川県
-- [これまでの発表資料](https://www.slideshare.net/yasuyukisugitani/presentations) / [ブログ](https://sugitani.hatenablog.com/) / [Zenn](https://zenn.dev/sugitani) / [Twitter](https://twitter.com/sugitani) ※技術の話はそれほどありません
+- [SpeakerDeck](https://speakerdeck.com/sugitani) / [SlideShare](https://www.slideshare.net/yasuyukisugitani/presentations) / [ブログ](https://sugitani.hatenablog.com/) / [Zenn](https://zenn.dev/sugitani) / [Twitter](https://twitter.com/sugitani) ※技術の話はそれほどありません
 
 ## これまでの評判のあった発表資料や技術エントリ
 
