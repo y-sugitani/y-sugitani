@@ -41,6 +41,7 @@
 
 ## 出来ること
 
+Scala/TypeScript/JavaScript/Swift/Kotlinを現役で扱っています。
 
 
 ### ①単騎でシステム一つ、まるごと作れます。運用もできます
