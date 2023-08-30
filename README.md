@@ -7,10 +7,11 @@
 - sugitani
 - 男性 / 41歳
 - 神奈川県
-- [SpeakerDeck](https://speakerdeck.com/sugitani) / [SlideShare](https://www.slideshare.net/yasuyukisugitani/presentations) / [Zenn](https://zenn.dev/sugitani) / [ブログ](https://sugitani.hatenablog.com/) / [Twitter](https://twitter.com/sugitani) 
+- [Zenn(メインブログ)](https://zenn.dev/sugitani) / [SpeakerDeck](https://speakerdeck.com/sugitani) / [SlideShare](https://www.slideshare.net/yasuyukisugitani/presentations) / [ブログ(旧)](https://sugitani.hatenablog.com/) / [Twitter](https://twitter.com/sugitani) 
 
 ## これまでの評判のあった発表資料や技術エントリ
 
+- 2023 [【Next.js+App Router】React Cosmos + Brandiで快適プレビュー](https://zenn.dev/nunw/articles/c4ba230728c46a)
 - 2022 [こんなに辛いことになるから、最初にがんばろう / 辛い開発状況をどうにかするためにやった13のこと](https://zenn.dev/sugitani/articles/dc159095869ff1)
 - 2019 スタートアップがまともなわけ無いから入るな [前編](https://mynavi-agent.jp/it/geekroid/2019/08/sugar-1.html)・[後編](https://web.archive.org/web/20220418120227/https://mynavi-agent.jp/it/geekroid/2019/08/sugar-2.html) ※wayback machine
 - 2019 [SUGARのアーキテクチャー / SUGAR ARCHITECTURE](https://speakerdeck.com/sugitani/sugar-architecture-20190425)
