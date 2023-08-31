@@ -37,6 +37,10 @@ NUNW社によるSNS。2023年サービス終了。 既存コードの品質向�
 
 Typescript/Firebase/GCP/Swift/Kotlin
 
+### (2021)株式会社バーチャルキャスト
+
+新規企画プロジェクトの企画開発に参加
+
 ### (2017-現在)[SUGAR](https://apps.apple.com/app/id1395793196)
 
 SUGAR社による芸能人と（本当に）話せるライブアプリ、佐藤健の配信で三〇万人以上の同接を記録
