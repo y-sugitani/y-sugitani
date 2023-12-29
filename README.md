@@ -7,21 +7,22 @@
 - sugitani
 - 男性 / 41歳
 - 神奈川県
-- [Zenn(メインブログ)](https://zenn.dev/sugitani) / [SpeakerDeck](https://speakerdeck.com/sugitani) / [SlideShare](https://www.slideshare.net/yasuyukisugitani/presentations) / [ブログ(旧)](https://sugitani.hatenablog.com/) / [Twitter](https://twitter.com/sugitani) 
+- [Zenn(メインブログ)](https://zenn.dev/sugitani) / [しずかなインターネット](https://sizu.me/sugitani) / [SpeakerDeck](https://speakerdeck.com/sugitani) / [SlideShare](https://www.slideshare.net/yasuyukisugitani/presentations) / [ブログ(旧)](https://sugitani.hatenablog.com/) / [Twitter](https://twitter.com/sugitani) 
 
 ## これまでの評判のあった発表資料や技術エントリ
 
+- 2023 [Scalaはもうだめなのか？…というかJVM言語がもうだめじゃん？](https://sizu.me/sugitani/posts/i2xm9z9u5xk3)
 - 2023 [【Next.js+App Router】React Cosmos + Brandiで快適プレビュー](https://zenn.dev/nunw/articles/c4ba230728c46a)
 - 2022 [こんなに辛いことになるから、最初にがんばろう / 辛い開発状況をどうにかするためにやった13のこと](https://zenn.dev/sugitani/articles/dc159095869ff1)
 - 2019 スタートアップがまともなわけ無いから入るな [前編](https://mynavi-agent.jp/it/geekroid/2019/08/sugar-1.html)・[後編](https://web.archive.org/web/20220418120227/https://mynavi-agent.jp/it/geekroid/2019/08/sugar-2.html) ※wayback machine
 - 2019 [SUGARのアーキテクチャー / SUGAR ARCHITECTURE](https://speakerdeck.com/sugitani/sugar-architecture-20190425)
 - 2017 [初転職4年間のまとめ、あるいはCTOを辞めたお話](https://sugitani.hatenablog.com/entry/2017/10/01/122714)
-- 2016 [2015〜2016年で開発組織を作るためにやってみたこと](https://web.archive.org/web/20210802194205/https://labs.septeni.co.jp/entry/2016/08/22/152549) ※wayback machine
+- 2016 [2015〜2016年で開発組織を作るためにやってみたこと](https://blog.flinters.co.jp/entry/2016/08/22/152549)
 - 2015 [Scalaに至るまでの物語 - Septeni × Scala 第一回 杉谷](https://www.slideshare.net/yasuyukisugitani/septeni-scala)
 - 2016 [Scala/Scrum/DDD 困ったこと50連発ガトリングトーク！！](https://www.slideshare.net/yasuyukisugitani/scalascrumdddgatlingtalk)
 - 2015 [GANMA!でDDDをやってみてから1年くらい経った](https://www.slideshare.net/yasuyukisugitani/septeni-scala3)
 - 2015 [技術的負債について考えた](https://sugitani.hatenablog.com/entry/2015/05/23/205714)
-- 2014 [2014年。開発組織を作るためにやってみた事](https://web.archive.org/web/20190411221126/https://labs.septeni.co.jp/entry/20141231/1419955978) ※wayback machine
+- 2014 [2014年。開発組織を作るためにやってみた事](https://blog.flinters.co.jp/entry/20141231/1419955978) 
 
 ## 主な参加プロジェクト
 
@@ -31,7 +32,7 @@
 
 ### (2023)[PAZR](https://pazr.jp)
 
-NUNW社によるSNS。ドメイン部分の改善などコード品質の向上や維持を主に主導
+NUNW社によるSNS。ドメイン部分の改善などコード品質の向上や維持を主導
 
 Typescript/Firebase/GCP/Next.js
 
@@ -85,12 +86,12 @@ TypeScript/Swift/Kotlin/Scalaを現役で扱っています。
 
 具体に行えること
 
-- TypeScriptかScalaを用いたバックエンド開発
+- TypeScriptやScalaを用いたバックエンド開発
 - Swift/Kotlinを用いたiOS/Android開発
 - Next.jsを用いたフロントエンド開発
 - GCP/AWSを用いたインフラ構築
   - Kubernetes活用やCDN活用なども手慣れています
-- スクラムを用いたプロジェクト管理やMiroを活用した効率的な会議運営
+- スクラムの主導やNotionを活用したプロジェクト管理、Miroを活用した効率的な会議運営
 
 ### 綺麗なコードを書くために努力しています
 
@@ -109,6 +110,6 @@ TypeScript/Swift/Kotlin/Scalaを現役で扱っています。
 
 過去に実施したことの詳細は以下のブログエントリをご参照ください
 
-- [2014年。開発組織を作るためにやってみた事](https://web.archive.org/web/20190411221126/https://labs.septeni.co.jp/entry/20141231/1419955978) ※wayback machine
-- [2015〜2016年で開発組織を作るためにやってみたこと](https://web.archive.org/web/20210802194205/https://labs.septeni.co.jp/entry/2016/08/22/152549) ※wayback machine
+- [2014年。開発組織を作るためにやってみた事](https://blog.flinters.co.jp/entry/20141231/1419955978) 
+- [2015〜2016年で開発組織を作るためにやってみたこと](https://blog.flinters.co.jp/entry/2016/08/22/152549) 
 - [初転職4年間のまとめ、あるいはCTOを辞めたお話](https://sugitani.hatenablog.com/entry/2017/10/01/122714)
