@@ -14,7 +14,7 @@
 - 2023 [Scalaはもうだめなのか？…というかJVM言語がもうだめじゃん？](https://sizu.me/sugitani/posts/i2xm9z9u5xk3)
 - 2023 [【Next.js+App Router】React Cosmos + Brandiで快適プレビュー](https://zenn.dev/nunw/articles/c4ba230728c46a)
 - 2022 [こんなに辛いことになるから、最初にがんばろう / 辛い開発状況をどうにかするためにやった13のこと](https://zenn.dev/sugitani/articles/dc159095869ff1)
-- 2019 スタートアップがまともなわけ無いから入るな [前編](https://mynavi-agent.jp/it/geekroid/2019/08/sugar-1.html)・[後編](https://web.archive.org/web/20220418120227/https://mynavi-agent.jp/it/geekroid/2019/08/sugar-2.html) ※wayback machine
+- 2019 スタートアップがまともなわけ無いから入るな [前編](https://web.archive.org/web/20221108133819/https://mynavi-agent.jp/it/geekroid/2019/08/sugar-1.html)・[後編](https://web.archive.org/web/20220418120227/https://mynavi-agent.jp/it/geekroid/2019/08/sugar-2.html) ※wayback machine
 - 2019 [SUGARのアーキテクチャー / SUGAR ARCHITECTURE](https://speakerdeck.com/sugitani/sugar-architecture-20190425)
 - 2017 [初転職4年間のまとめ、あるいはCTOを辞めたお話](https://sugitani.hatenablog.com/entry/2017/10/01/122714)
 - 2016 [2015〜2016年で開発組織を作るためにやってみたこと](https://blog.flinters.co.jp/entry/2016/08/22/152549)
